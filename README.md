@@ -8,10 +8,11 @@ Deep Learning course project, a RAG chatbot over Lebanese legislation.
 
 | Year | Issues with OCR | OCR pages | Issues in metadata |
 |---|---|---|---|
-| 2024 | 13 | 1,508 | 56 |
+| 2024 | 14 | 1,686 | 56 |
 | 2025 | 53 | 6,101 | 72 |
 
-The 2024 OCR is still in progress, so not every issue in the metadata has OCR text yet.
+The 2024 OCR is still in progress: January to March 2024 is complete (both parts), so not every
+issue in the metadata has OCR text yet.
 `progress.json` in each year folder shows the current state.
 
 ```

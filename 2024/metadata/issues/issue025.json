@@ -6,9 +6,80 @@
  "suffix": "",
  "date": "2024-06-20",
  "year": 2024,
- "status": "new",
- "parts": {},
+ "status": "walking",
+ "parts": {
+  "1": {
+   "start": 1569,
+   "end": 1573,
+   "image_dir": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/",
+   "ext": ".gif",
+   "found_by": "direct",
+   "done": false
+  }
+ },
  "toc": [],
- "pages": [],
- "errors": []
+ "pages": [
+  {
+   "part": 1,
+   "page": 1569,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/1569.gif",
+   "image": "2024/images/issue025/2024_issue025_part1_page01569.gif",
+   "text": "2024/ocr_text/issue025/2024_issue025_part1_page01569.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 54289,
+   "downloaded_at": "2026-10-30 17:50:06"
+  },
+  {
+   "part": 1,
+   "page": 1570,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/1570.gif",
+   "image": "2024/images/issue025/2024_issue025_part1_page01570.gif",
+   "text": "2024/ocr_text/issue025/2024_issue025_part1_page01570.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57100,
+   "downloaded_at": "2026-10-30 17:50:20"
+  },
+  {
+   "part": 1,
+   "page": 1571,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/1571.gif",
+   "image": "2024/images/issue025/2024_issue025_part1_page01571.gif",
+   "text": "2024/ocr_text/issue025/2024_issue025_part1_page01571.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57354,
+   "downloaded_at": "2026-10-30 17:50:35"
+  },
+  {
+   "part": 1,
+   "page": 1572,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/1572.gif",
+   "image": "2024/images/issue025/2024_issue025_part1_page01572.gif",
+   "text": "2024/ocr_text/issue025/2024_issue025_part1_page01572.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 58291,
+   "downloaded_at": "2026-10-30 17:50:50"
+  },
+  {
+   "part": 1,
+   "page": 1573,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j25/doc45/1573.gif",
+   "image": "2024/images/issue025/2024_issue025_part1_page01573.gif",
+   "text": "2024/ocr_text/issue025/2024_issue025_part1_page01573.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 59018,
+   "downloaded_at": "2026-10-30 17:51:07"
+  }
+ ],
+ "errors": [],
+ "archive_folder": "j25"
 }
