@@ -1,0 +1,1703 @@
+{
+ "issue_id": "issue016",
+ "label": "عدد 16 تاريخ 18-4-2024",
+ "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24042",
+ "number": 16,
+ "suffix": "",
+ "date": "2024-04-18",
+ "year": 2024,
+ "status": "downloaded",
+ "parts": {
+  "1": {
+   "start": 849,
+   "end": 890,
+   "image_dir": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/",
+   "ext": ".gif",
+   "items": 50
+  },
+  "2": {
+   "start": 817,
+   "end": 880,
+   "image_dir": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/",
+   "ext": ".gif",
+   "items": 7
+  }
+ },
+ "toc": [
+  {
+   "seq": 1,
+   "part": 1,
+   "section": "المجلس الدستوري",
+   "title": "قرار رقم 2024/4 تاريخ 9 نيسان سنة 2024 يتعلق بخطأ مادي في البند (3) من الفقرة الحكمية من القرار رقم 2024/3 الصادر في 2024/4/4",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kri4-2024.htm"
+  },
+  {
+   "seq": 2,
+   "part": 1,
+   "section": "مراسيم › رئاسة مجلس الوزراء",
+   "title": "مرسوم رقم 13154 تاريخ 5 نيسان سنة 2024 قبول استقالة مدير عام موضوع تحت تصرف رئيس مجلس الوزراء بناء لطلبه",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13154.htm"
+  },
+  {
+   "seq": 3,
+   "part": 1,
+   "section": "مراسيم › رئاسة مجلس الوزراء",
+   "title": "مرسوم رقم 13160 تاريخ 5 نيسان سنة 2024 إعطاء سلفة خزينة الى المجلس الدستوري",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13160.htm"
+  },
+  {
+   "seq": 4,
+   "part": 1,
+   "section": "مراسيم › رئاسة مجلس الوزراء",
+   "title": "مرسوم رقم 13209 تاريخ 5 نيسان سنة 2024 قبول هبة عينية مقدمة من شركة يونيترمنلز ش.م.ل لصالح مجلس الخدمة المدنية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13209.htm"
+  },
+  {
+   "seq": 5,
+   "part": 1,
+   "section": "مراسيم › رئاسة مجلس الوزراء",
+   "title": "مرسوم رقم 13213 تاريخ 5 نيسان سنة 2024 قبول هبة عينية مقدمة من سفارة كوريا في لبنان لصالح المديرية العامة لرئاسة الجمهورية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13213.htm"
+  },
+  {
+   "seq": 6,
+   "part": 1,
+   "section": "مراسيم › رئاسة مجلس الوزراء",
+   "title": "مرسوم رقم 13223 تاريخ 5 نيسان سنة 2024 تعديل بعض أحكام المرسوم رقم 13020 تاريخ 28/2/2024 وتعديلاته المتعلق بإعطاء تعويض مؤقت لجميع العاملين في القطاع العام والمتقاعدين الذين يستفيدون من معاش تقاعدي",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13223.htm"
+  },
+  {
+   "seq": 7,
+   "part": 1,
+   "section": "مراسيم › وزارة العدل",
+   "title": "مرسوم رقم 13238 تاريخ 15 نيسان سنة 2024 الموافقة على تسليم مواطن عراقي الى السلطات القضائية العرافية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13238.htm"
+  },
+  {
+   "seq": 8,
+   "part": 1,
+   "section": "مراسيم › وزارة الخارجية والمغتربين",
+   "title": "مرسوم رقم 13162 تاريخ 5 نيسان سنة 2024 قبول هبة عينية مقدمة لصالح وزارة الخارجية والمغتربين - سفارة لبنان لدى جمهورية سيراليون",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13162.htm"
+  },
+  {
+   "seq": 9,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13157 تاريخ 5 نيسان سنة 2024 تجديد رخصة إتجار بأسلحة الصيد وذخائرها",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13157.htm"
+  },
+  {
+   "seq": 10,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13158 تاريخ 5 نيسان سنة 2024 تجديد رخصة إستيراد أسلحة وذخائر ومعدات حربية لصالح القوى المسلحة اللبنانية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13158.htm"
+  },
+  {
+   "seq": 11,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13211 تاريخ 5 نيسان سنة 2024 قبول هبة مقدمة من مكتب الأمم المتحدة المعني بالمخدرات والجريمة UNODC لصالح وزارة الداخلية والبلديات - المديرية العامة للأمن العام",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13211.htm"
+  },
+  {
+   "seq": 12,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13212 تاريخ 5 نيسان سنة 2024 قبول هبة عينية مقدمة من بعض الجهات لصالح وزارة الداخلية والبلديات - المديرية العامة للأمن العام",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13212.htm"
+  },
+  {
+   "seq": 13,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13220 تاريخ 5 نيسان سنة 2024 الترخيص للبناني بإكتساب الجنسية الهولنديه",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13220.htm"
+  },
+  {
+   "seq": 14,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13221 تاريخ 5 نيسان سنة 2024 الترخيص للبناني بإكتساب الجنسية الدانمركيه",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13221.htm"
+  },
+  {
+   "seq": 15,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13240 تاريخ 15 نيسان سنة 2024 نقل اعتماد من احتياطي الموازنة العامة الى موازنة وزارة الداخلية والبلديات - المديرية الادارية المشتركة لعام 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13240.htm"
+  },
+  {
+   "seq": 16,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13242 تاريخ 15 نيسان سنة 2024 نقل اعتماد من احتياطي الموازنة العامة الى موازنة وزارة الداخلية والبلديات - محافظة الجنوب لعام 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13242.htm"
+  },
+  {
+   "seq": 17,
+   "part": 1,
+   "section": "مراسيم › وزارة الداخلية والبلديات",
+   "title": "مرسوم رقم 13244 تاريخ 15 نيسان سنة 2024 نقل اعتماد من احتياطي الموازنة العامة الى موازنة وزارة الداخلية والبلديات - محافظة البقاع لعام 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13244.htm"
+  },
+  {
+   "seq": 18,
+   "part": 1,
+   "section": "مراسيم › وزارة المالية",
+   "title": "مرسوم رقم 13207 تاريخ 5 نيسان سنة 2024 قبول هبة عينية مقدمة من مدرسة الليسيه الفرنسية في حبوش لصالح وزارة المالية - مالية محافظة النبطية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13207.htm"
+  },
+  {
+   "seq": 19,
+   "part": 1,
+   "section": "مراسيم › وزارة المالية",
+   "title": "مرسوم رقم 13208 تاريخ 5 نيسان سنة 2024 قبول هبة لصالح إدارة الجمارك",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13208.htm"
+  },
+  {
+   "seq": 20,
+   "part": 1,
+   "section": "مراسيم › وزارة المالية",
+   "title": "مرسوم رقم 13210 تاريخ 5 نيسان سنة 2024 قبول هبة لصالح إدارة الجمارك",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13210.htm"
+  },
+  {
+   "seq": 21,
+   "part": 1,
+   "section": "مراسيم › وزارة المالية",
+   "title": "مرسوم رقم 13237 تاريخ 15 نيسان سنة 2024 تصحيح خطأ مطبعي وارد في الجداول المرفقة بالمرسوم رقم 12816 تاريخ 21/12/2023",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13237.htm"
+  },
+  {
+   "seq": 22,
+   "part": 1,
+   "section": "مراسيم › وزارة الأشغال العامة والنقل",
+   "title": "مرسوم رقم 13159 تاريخ 5 نيسان سنة 2024 تصديق والغاء قسم من تخطيط طريق في منطقة غوسطا العقارية (قضاء كسروان - محافظة جبل لبنان)",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13159.htm"
+  },
+  {
+   "seq": 23,
+   "part": 1,
+   "section": "مراسيم › وزارة التربية والتعليم العالي",
+   "title": "مرسوم رقم 13153 تاريخ 5 نيسان سنة 2024 أحكام خاصة بترشيح التلامذة للامتحانات الرسمية في العام 2024، وفي نوع هذه الامتحانات للتلامذة الذين لم يتابعوا الدراسة حضوريا بسبب أوضاع أمنية نشأت في النطاق الجغرافي الذي تقع المدارس المسجلين فيها ضمنه، والاستعاضة عن الامتحان الرسمي للشهادة المتوسطة في العام 2024 بإمتحان تكون الاسئلة في كل من مواده موحدة، تعدها المديرية العامة للتربية، وتجريه بمواكبة منها كل من المدارس الرسمية والخاصة لتلامذة الاساسي التاسع لديها",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13153.htm"
+  },
+  {
+   "seq": 24,
+   "part": 1,
+   "section": "مراسيم › وزارة التربية والتعليم العالي",
+   "title": "مرسوم رقم 13226 تاريخ 5 نيسان سنة 2024 نقل اعتماد من احتياطي الموازنة العامة الى موازنة وزارة التربية والتعليم العالي - المركز التربوي للبحوث والإنماء - المديرية الإدارية المشتركة لعام 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13226.htm"
+  },
+  {
+   "seq": 25,
+   "part": 1,
+   "section": "مراسيم › وزارة التربية والتعليم العالي",
+   "title": "مرسوم رقم 13248 تاريخ 15 نيسان سنة 2024 الترخيص بنقل ملكية معهد فني خاص بإسم «المركز الدولي للعلوم التقنية - CIT - فرع ثانٍ» في الهرمل (قضاء الهرمل)",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13248.htm"
+  },
+  {
+   "seq": 26,
+   "part": 1,
+   "section": "مراسيم › وزارة الصحة العامة",
+   "title": "مرسوم رقم 13155 تاريخ 5 نيسان سنة 2024 نقل ترخيص بانشاء مستشفى خاص في لبنان",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13155.htm"
+  },
+  {
+   "seq": 27,
+   "part": 1,
+   "section": "مراسيم › وزارة الصحة العامة",
+   "title": "مرسوم رقم 13156 تاريخ 5 نيسان سنة 2024 الترخيص بانشاء مستشفى خاص",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13156.htm"
+  },
+  {
+   "seq": 28,
+   "part": 1,
+   "section": "مراسيم › وزارة الإتصالات",
+   "title": "مرسوم رقم 13161 تاريخ 5 نيسان سنة 2024 نقل اعتماد من احتياطي الموازنة العامة الى موازنة وزارة الاتصالات - أوجيرو - المديرية العامة لإستثمار وصيانة الاتصالات لعام 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13161.htm"
+  },
+  {
+   "seq": 29,
+   "part": 1,
+   "section": "مراسيم › وزارة العمل",
+   "title": "مرسوم رقم 13164 تاريخ 5 نيسان سنة 2024 مرسوم تعيين الحد الادنى الرسمي لأجور المستخدمين والعمال الخاضعين لقانون العمل ونسبة غلاء المعيشة",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13164.htm"
+  },
+  {
+   "seq": 30,
+   "part": 1,
+   "section": "مراسيم › وزارة العمل",
+   "title": "مرسوم رقم 13224 تاريخ 5 نيسان سنة 2024 استفادة أعضاء مجلس إدارة الصندوق الوطني للضمان الاجتماعي من فرع ضمان المرض والأمومة",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13224.htm"
+  },
+  {
+   "seq": 31,
+   "part": 1,
+   "section": "مراسيم › وزارة العمل",
+   "title": "مرسوم رقم 13225 تاريخ 5 نيسان سنة 2024 اعطاء منح تعليم بصورة مؤقتة للمستخدمين والعمال الخاضعين لقانون العمل",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfm/m13225.htm"
+  },
+  {
+   "seq": 32,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "تعديل رقم 265 تاريخ 20 آذار سنة 2024 لبيان العلم والخبر رقم: 2150 تاريخ 24/10/2014 للجمعية المسماة: «سراج الدير» { Siraj Al Deir } مركزها: دير القمر - قضاء الشوف",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda265.htm"
+  },
+  {
+   "seq": 33,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "تعديل رقم 281 تاريخ 20 آذار سنة 2024 لبيان العلم والخبر رقم: 592 تاريخ 6/6/2022 للجمعية المسماة: «إنماء المرأة حياة» مركزها: بيروت",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda281.htm"
+  },
+  {
+   "seq": 34,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "بيان علم وخبر رقم 297 تاريخ 26 آذار سنة 2024 بتأسيس جمعية بإسم: «جمعية رفيق الخير» مركزها: خريبة الجندي - قضاء عكار",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda297.htm"
+  },
+  {
+   "seq": 35,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "بيان علم وخبر رقم 298 تاريخ 26 آذار سنة 2024 بتأسيس جمعية بإسم: «الانماء لغد افضل» مركزها: الزلقا - قضاء المتن",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda298.htm"
+  },
+  {
+   "seq": 36,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "بيان علم وخبر رقم 299 تاريخ 26 آذار سنة 2024 بتأسيس جمعية بإسم: { Help Aid And Support HAS } مركزها: بقعاتا - قضاء الشوف",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda299.htm"
+  },
+  {
+   "seq": 37,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "بيان علم وخبر رقم 300 تاريخ 26 آذار سنة 2024 بتأسيس جمعية بإسم: «جمعية الخروبة» مركزها: عمشيت - قضاء جبيل",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda300.htm"
+  },
+  {
+   "seq": 38,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "تعديل رقم 314 تاريخ 4 نيسان سنة 2024 لبيان العلم والخبر رقم: 640/أد تاريخ 14/11/1994 وتعديله برقم 9/أد تاريخ 19/1/2005 للجمعية المسماة: «جمعية الوعي والمؤاساة الخيرية» مركزها: كترمايا - قضاء الشوف",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda314.htm"
+  },
+  {
+   "seq": 39,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الداخلية والبلديات",
+   "title": "بيان علم وخبر رقم 315 تاريخ 2 نيسان سنة 2024 بتأسيس جمعية بإسم: { Diana Bou Dargham Tannoury Women's Cancer Foundation } مركزها: ذوق الخراب - قضاء المتن",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kda315.htm"
+  },
+  {
+   "seq": 40,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 302/1 تاريخ 3 نيسان سنة 2024 تحديد دقائق تطبيق المادة 63 من المرسوم الاشتراعي رقم 144 تاريخ 12/06/1959 وتعديلاته (قانون ضريبة الدخل) المعدلة بموجب المادة 35 من القانون النافذ حكما رقم 10 تاريخ 15/11/2022 (قانون الموازنة العامة للعام 2022) وبموجب المادة 18 من القانون رقم 324 تاريخ 12/02/2024 قانون الموازنة العامة للعام (2024)",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma302-1.htm"
+  },
+  {
+   "seq": 41,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 303/1 تاريخ 4 نيسان سنة 2024 تعديل المادة الرابعة من القرار رقم 824/1 تاريخ 8/11/2023 (تحديد المعالجة الضريبية للفوائد التي يدفعها المكلفون بضريبة الدخل)",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma303-1.htm"
+  },
+  {
+   "seq": 42,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 304/1 تاريخ 4 نيسان سنة 2024 تمديد مهلة تقديم التصريح عن إيرادات الأسهم وسندات الدين الأجنبية ومختلف إيرادات رؤوس الأموال المنقولة الأجنبية الأخرى العائدة لسنة 2022 التي يتوجب على أصحابها أو المتمتعين بريعها المقيمين في لبنان التصريح عنها عملا بأحكام المادة 82 من قانون ضريبة الدخل وتسديد الضريبة المتوجبة",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma304-1.htm"
+  },
+  {
+   "seq": 43,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 305/1 تاريخ 4 نيسان سنة 2024 تمديد مهلة تقديم التصريح عن إيرادات الأسهم وسندات الدين الأجنبية ومختلف إيرادات رؤوس الأموال المنقولة الأجنبية الأخرى العائدة لسنة 2023 التي يتوجب على أصحابها أو المتمتعين بريعها المقيمين في لبنان التصريح عنها عملا بأحكام المادة 82 من قانون ضريبة الدخل",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma305-1.htm"
+  },
+  {
+   "seq": 44,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 349/1 تاريخ 9 نيسان سنة 2024 تمديد مهلة تقديم تصاريح رسم الطابع المالي المتعلق بالمؤسسات الخاضعة للتأدية الدورية عن الفصل الأول 2024",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma349-1.htm"
+  },
+  {
+   "seq": 45,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 350/1 تاريخ 9 نيسان سنة 2024 تمديد مهلة تقديم التصريح الدوري عن الفصل الأول من سنة 2024 وطلبات الاسترداد التي تقدم خلال مهلة التصريح عن هذا الفصل وتأدية الضريبة العائدة لها",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma350-1.htm"
+  },
+  {
+   "seq": 46,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة المالية",
+   "title": "قرار رقم 351/1 تاريخ 9 نيسان سنة 2024 تمديد مهلة تقديم بيانات الفصل الأول لضريبة الرواتب والأجور من سنة 2024 وتأدية الضريبة العائدة لها",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kma351-1.htm"
+  },
+  {
+   "seq": 47,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الزراعة",
+   "title": "قرار رقم 135/1/2024 تاريخ 27 آذار سنة 2024 تعديل المادتين الثانية والخامسة من القرار رقم 1042/1 تاريخ 7/11/2013 «تنظيم استيراد الاسمدة ومحسنات التربة في لبنان»",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kzi135-1-2024.htm"
+  },
+  {
+   "seq": 48,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الزراعة",
+   "title": "قرار رقم 93/2 تاريخ 2 نيسان سنة 2024 الترخيص بتعاطي مهنة بيع الاسمدة الزراعية لصالح شركة أماليا ش.م.ل.",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/kzi93-2.htm"
+  },
+  {
+   "seq": 49,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الشباب والرياضة",
+   "title": "قرار رقم 91/1/2024 تاريخ 22 آذار سنة 2024 ترخيص جمعية رياضية بإسم «غولدن دايس»",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/khb91-2-2024.htm"
+  },
+  {
+   "seq": 50,
+   "part": 1,
+   "section": "تعاميم - علم وخبر › وزارة الصناعة",
+   "title": "قرار رقم 29/1 تاريخ 4 نيسان سنة 2024 تفويض مدير عام الصناعة بالتكليف التوقيع على الشهادات الصناعية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/wfk/ksn29-1.htm"
+  },
+  {
+   "seq": 51,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "اعلانات رسمية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-0.htm"
+  },
+  {
+   "seq": 52,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "احكام قضائية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-2.htm"
+  },
+  {
+   "seq": 53,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "اعلانات قضائية",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-3.htm"
+  },
+  {
+   "seq": 54,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "اعلانات امانة السجل التجاري",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-5.htm"
+  },
+  {
+   "seq": 55,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "اعلانات امانة السجل العقاري",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-4.htm"
+  },
+  {
+   "seq": 56,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "اعلانات خاصة",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-7.htm"
+  },
+  {
+   "seq": 57,
+   "part": 2,
+   "section": "تعاميم - علم وخبر › القسم الثاني",
+   "title": "حماية الملكية(علامات فارقة)",
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/part2/p2-6.htm"
+  }
+ ],
+ "pages": [
+  {
+   "part": 1,
+   "page": 849,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/849.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00849.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00849.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 89488,
+   "downloaded_at": "2026-10-29 18:20:30"
+  },
+  {
+   "part": 1,
+   "page": 850,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/850.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00850.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00850.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 59258,
+   "downloaded_at": "2026-10-29 18:20:45"
+  },
+  {
+   "part": 1,
+   "page": 851,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/851.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00851.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00851.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57006,
+   "downloaded_at": "2026-10-29 18:21:00"
+  },
+  {
+   "part": 1,
+   "page": 852,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/852.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00852.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00852.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65912,
+   "downloaded_at": "2026-10-29 18:21:15"
+  },
+  {
+   "part": 1,
+   "page": 853,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/853.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00853.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00853.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65540,
+   "downloaded_at": "2026-10-29 18:21:30"
+  },
+  {
+   "part": 1,
+   "page": 854,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/854.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00854.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00854.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 45984,
+   "downloaded_at": "2026-10-29 18:21:45"
+  },
+  {
+   "part": 1,
+   "page": 855,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/855.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00855.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00855.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 170386,
+   "downloaded_at": "2026-10-29 18:22:00"
+  },
+  {
+   "part": 1,
+   "page": 856,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/856.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00856.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00856.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 66274,
+   "downloaded_at": "2026-10-29 18:22:15"
+  },
+  {
+   "part": 1,
+   "page": 857,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/857.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00857.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00857.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 54775,
+   "downloaded_at": "2026-10-29 18:22:30"
+  },
+  {
+   "part": 1,
+   "page": 858,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/858.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00858.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00858.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 169147,
+   "downloaded_at": "2026-10-29 18:22:45"
+  },
+  {
+   "part": 1,
+   "page": 859,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/859.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00859.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00859.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 168370,
+   "downloaded_at": "2026-10-29 18:23:00"
+  },
+  {
+   "part": 1,
+   "page": 860,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/860.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00860.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00860.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 56908,
+   "downloaded_at": "2026-10-29 18:23:15"
+  },
+  {
+   "part": 1,
+   "page": 861,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/861.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00861.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00861.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 52888,
+   "downloaded_at": "2026-10-29 18:23:30"
+  },
+  {
+   "part": 1,
+   "page": 862,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/862.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00862.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00862.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 52768,
+   "downloaded_at": "2026-10-29 18:23:45"
+  },
+  {
+   "part": 1,
+   "page": 863,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/863.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00863.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00863.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 58370,
+   "downloaded_at": "2026-10-29 18:24:00"
+  },
+  {
+   "part": 1,
+   "page": 864,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/864.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00864.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00864.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 61110,
+   "downloaded_at": "2026-10-29 18:24:15"
+  },
+  {
+   "part": 1,
+   "page": 865,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/865.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00865.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00865.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 67242,
+   "downloaded_at": "2026-10-29 18:24:30"
+  },
+  {
+   "part": 1,
+   "page": 866,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/866.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00866.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00866.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 83491,
+   "downloaded_at": "2026-10-29 18:24:45"
+  },
+  {
+   "part": 1,
+   "page": 867,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/867.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00867.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00867.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 81837,
+   "downloaded_at": "2026-10-29 18:25:00"
+  },
+  {
+   "part": 1,
+   "page": 868,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/868.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00868.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00868.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 75934,
+   "downloaded_at": "2026-10-29 18:25:15"
+  },
+  {
+   "part": 1,
+   "page": 869,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/869.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00869.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00869.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 85011,
+   "downloaded_at": "2026-10-29 18:25:30"
+  },
+  {
+   "part": 1,
+   "page": 870,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/870.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00870.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00870.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 70952,
+   "downloaded_at": "2026-10-29 18:25:46"
+  },
+  {
+   "part": 1,
+   "page": 871,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/871.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00871.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00871.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57294,
+   "downloaded_at": "2026-10-29 18:26:00"
+  },
+  {
+   "part": 1,
+   "page": 872,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/872.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00872.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00872.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 68556,
+   "downloaded_at": "2026-10-29 18:26:15"
+  },
+  {
+   "part": 1,
+   "page": 873,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/873.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00873.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00873.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 60025,
+   "downloaded_at": "2026-10-29 18:26:30"
+  },
+  {
+   "part": 1,
+   "page": 874,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/874.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00874.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00874.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57590,
+   "downloaded_at": "2026-10-29 18:26:45"
+  },
+  {
+   "part": 1,
+   "page": 875,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/875.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00875.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00875.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 63736,
+   "downloaded_at": "2026-10-29 18:27:00"
+  },
+  {
+   "part": 1,
+   "page": 876,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/876.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00876.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00876.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 57596,
+   "downloaded_at": "2026-10-29 18:27:15"
+  },
+  {
+   "part": 1,
+   "page": 877,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/877.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00877.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00877.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65167,
+   "downloaded_at": "2026-10-29 18:27:30"
+  },
+  {
+   "part": 1,
+   "page": 878,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/878.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00878.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00878.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 67837,
+   "downloaded_at": "2026-10-29 18:27:45"
+  },
+  {
+   "part": 1,
+   "page": 879,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/879.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00879.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00879.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65361,
+   "downloaded_at": "2026-10-29 18:28:00"
+  },
+  {
+   "part": 1,
+   "page": 880,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/880.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00880.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00880.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 63612,
+   "downloaded_at": "2026-10-29 18:28:16"
+  },
+  {
+   "part": 1,
+   "page": 881,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/881.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00881.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00881.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 68430,
+   "downloaded_at": "2026-10-29 18:28:31"
+  },
+  {
+   "part": 1,
+   "page": 882,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/882.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00882.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00882.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 69704,
+   "downloaded_at": "2026-10-29 18:28:45"
+  },
+  {
+   "part": 1,
+   "page": 883,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/883.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00883.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00883.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 69438,
+   "downloaded_at": "2026-10-29 18:29:00"
+  },
+  {
+   "part": 1,
+   "page": 884,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/884.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00884.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00884.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 67464,
+   "downloaded_at": "2026-10-29 18:29:15"
+  },
+  {
+   "part": 1,
+   "page": 885,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/885.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00885.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00885.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 71564,
+   "downloaded_at": "2026-10-29 18:29:30"
+  },
+  {
+   "part": 1,
+   "page": 886,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/886.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00886.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00886.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 62109,
+   "downloaded_at": "2026-10-29 18:29:45"
+  },
+  {
+   "part": 1,
+   "page": 887,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/887.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00887.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00887.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 71100,
+   "downloaded_at": "2026-10-29 18:30:00"
+  },
+  {
+   "part": 1,
+   "page": 888,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/888.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00888.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00888.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 78331,
+   "downloaded_at": "2026-10-29 18:30:16"
+  },
+  {
+   "part": 1,
+   "page": 889,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/889.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00889.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00889.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65872,
+   "downloaded_at": "2026-10-29 18:30:30"
+  },
+  {
+   "part": 1,
+   "page": 890,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc45/890.gif",
+   "image": "2024/images/issue016/2024_issue016_part1_page00890.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part1_page00890.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65580,
+   "downloaded_at": "2026-10-29 18:30:45"
+  },
+  {
+   "part": 2,
+   "page": 817,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/817.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00817.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00817.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 28209,
+   "downloaded_at": "2026-10-29 18:31:00"
+  },
+  {
+   "part": 2,
+   "page": 818,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/818.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00818.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00818.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65511,
+   "downloaded_at": "2026-10-29 18:31:15"
+  },
+  {
+   "part": 2,
+   "page": 819,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/819.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00819.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00819.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65426,
+   "downloaded_at": "2026-10-29 18:31:30"
+  },
+  {
+   "part": 2,
+   "page": 820,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/820.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00820.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00820.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65605,
+   "downloaded_at": "2026-10-29 18:31:45"
+  },
+  {
+   "part": 2,
+   "page": 821,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/821.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00821.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00821.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 55474,
+   "downloaded_at": "2026-10-29 18:32:00"
+  },
+  {
+   "part": 2,
+   "page": 822,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/822.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00822.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00822.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 47733,
+   "downloaded_at": "2026-10-29 18:32:15"
+  },
+  {
+   "part": 2,
+   "page": 823,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/823.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00823.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00823.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48053,
+   "downloaded_at": "2026-10-29 18:32:30"
+  },
+  {
+   "part": 2,
+   "page": 824,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/824.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00824.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00824.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 50617,
+   "downloaded_at": "2026-10-29 18:32:46"
+  },
+  {
+   "part": 2,
+   "page": 825,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/825.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00825.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00825.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48265,
+   "downloaded_at": "2026-10-29 18:33:00"
+  },
+  {
+   "part": 2,
+   "page": 826,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/826.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00826.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00826.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48550,
+   "downloaded_at": "2026-10-29 18:33:15"
+  },
+  {
+   "part": 2,
+   "page": 827,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/827.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00827.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00827.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 45526,
+   "downloaded_at": "2026-10-29 18:33:30"
+  },
+  {
+   "part": 2,
+   "page": 828,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/828.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00828.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00828.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 46795,
+   "downloaded_at": "2026-10-29 18:33:45"
+  },
+  {
+   "part": 2,
+   "page": 829,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/829.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00829.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00829.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 53119,
+   "downloaded_at": "2026-10-29 18:34:00"
+  },
+  {
+   "part": 2,
+   "page": 830,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/830.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00830.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00830.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48066,
+   "downloaded_at": "2026-10-29 18:34:15"
+  },
+  {
+   "part": 2,
+   "page": 831,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/831.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00831.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00831.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 54320,
+   "downloaded_at": "2026-10-29 18:34:30"
+  },
+  {
+   "part": 2,
+   "page": 832,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/832.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00832.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00832.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 51150,
+   "downloaded_at": "2026-10-29 18:34:45"
+  },
+  {
+   "part": 2,
+   "page": 833,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/833.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00833.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00833.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 50037,
+   "downloaded_at": "2026-10-29 18:35:00"
+  },
+  {
+   "part": 2,
+   "page": 834,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/834.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00834.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00834.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48759,
+   "downloaded_at": "2026-10-29 18:35:15"
+  },
+  {
+   "part": 2,
+   "page": 835,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/835.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00835.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00835.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 48899,
+   "downloaded_at": "2026-10-29 18:35:30"
+  },
+  {
+   "part": 2,
+   "page": 836,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/836.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00836.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00836.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 59584,
+   "downloaded_at": "2026-10-29 18:35:45"
+  },
+  {
+   "part": 2,
+   "page": 837,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/837.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00837.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00837.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 75816,
+   "downloaded_at": "2026-10-29 18:36:00"
+  },
+  {
+   "part": 2,
+   "page": 838,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/838.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00838.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00838.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 73644,
+   "downloaded_at": "2026-10-29 18:36:15"
+  },
+  {
+   "part": 2,
+   "page": 839,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/839.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00839.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00839.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 73038,
+   "downloaded_at": "2026-10-29 18:36:30"
+  },
+  {
+   "part": 2,
+   "page": 840,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/840.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00840.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00840.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 72771,
+   "downloaded_at": "2026-10-29 18:36:45"
+  },
+  {
+   "part": 2,
+   "page": 841,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/841.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00841.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00841.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 69625,
+   "downloaded_at": "2026-10-29 18:37:00"
+  },
+  {
+   "part": 2,
+   "page": 842,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/842.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00842.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00842.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 68289,
+   "downloaded_at": "2026-10-29 18:37:15"
+  },
+  {
+   "part": 2,
+   "page": 843,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/843.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00843.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00843.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 65643,
+   "downloaded_at": "2026-10-29 18:37:30"
+  },
+  {
+   "part": 2,
+   "page": 844,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/844.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00844.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00844.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 51136,
+   "downloaded_at": "2026-10-29 18:37:45"
+  },
+  {
+   "part": 2,
+   "page": 845,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/845.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00845.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00845.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 58016,
+   "downloaded_at": "2026-10-29 18:38:00"
+  },
+  {
+   "part": 2,
+   "page": 846,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/846.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00846.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00846.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 55532,
+   "downloaded_at": "2026-10-29 18:38:15"
+  },
+  {
+   "part": 2,
+   "page": 847,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/847.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00847.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00847.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 45483,
+   "downloaded_at": "2026-10-29 18:38:30"
+  },
+  {
+   "part": 2,
+   "page": 848,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/848.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00848.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00848.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 58241,
+   "downloaded_at": "2026-10-29 18:38:45"
+  },
+  {
+   "part": 2,
+   "page": 849,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/849.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00849.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00849.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 52890,
+   "downloaded_at": "2026-10-29 18:39:00"
+  },
+  {
+   "part": 2,
+   "page": 850,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/850.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00850.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00850.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 31455,
+   "downloaded_at": "2026-10-29 18:39:15"
+  },
+  {
+   "part": 2,
+   "page": 851,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/851.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00851.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00851.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 121736,
+   "downloaded_at": "2026-10-29 18:39:30"
+  },
+  {
+   "part": 2,
+   "page": 852,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/852.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00852.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00852.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 142685,
+   "downloaded_at": "2026-10-29 18:39:45"
+  },
+  {
+   "part": 2,
+   "page": 853,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/853.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00853.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00853.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 69460,
+   "downloaded_at": "2026-10-29 18:40:00"
+  },
+  {
+   "part": 2,
+   "page": 854,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/854.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00854.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00854.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 134718,
+   "downloaded_at": "2026-10-29 18:40:15"
+  },
+  {
+   "part": 2,
+   "page": 855,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/855.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00855.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00855.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 137615,
+   "downloaded_at": "2026-10-29 18:40:30"
+  },
+  {
+   "part": 2,
+   "page": 856,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/856.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00856.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00856.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 143375,
+   "downloaded_at": "2026-10-29 18:40:45"
+  },
+  {
+   "part": 2,
+   "page": 857,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/857.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00857.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00857.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 132442,
+   "downloaded_at": "2026-10-29 18:41:01"
+  },
+  {
+   "part": 2,
+   "page": 858,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/858.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00858.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00858.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 126169,
+   "downloaded_at": "2026-10-29 18:41:15"
+  },
+  {
+   "part": 2,
+   "page": 859,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/859.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00859.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00859.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 143535,
+   "downloaded_at": "2026-10-29 18:41:31"
+  },
+  {
+   "part": 2,
+   "page": 860,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/860.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00860.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00860.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 130451,
+   "downloaded_at": "2026-10-29 18:41:46"
+  },
+  {
+   "part": 2,
+   "page": 861,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/861.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00861.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00861.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 135209,
+   "downloaded_at": "2026-10-29 18:42:00"
+  },
+  {
+   "part": 2,
+   "page": 862,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/862.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00862.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00862.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 121476,
+   "downloaded_at": "2026-10-29 18:42:15"
+  },
+  {
+   "part": 2,
+   "page": 863,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/863.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00863.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00863.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 130845,
+   "downloaded_at": "2026-10-29 18:42:30"
+  },
+  {
+   "part": 2,
+   "page": 864,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/864.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00864.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00864.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 145084,
+   "downloaded_at": "2026-10-29 18:42:45"
+  },
+  {
+   "part": 2,
+   "page": 865,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/865.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00865.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00865.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 136180,
+   "downloaded_at": "2026-10-29 18:43:00"
+  },
+  {
+   "part": 2,
+   "page": 866,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/866.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00866.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00866.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 146056,
+   "downloaded_at": "2026-10-29 18:43:16"
+  },
+  {
+   "part": 2,
+   "page": 867,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/867.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00867.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00867.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 148803,
+   "downloaded_at": "2026-10-29 18:43:30"
+  },
+  {
+   "part": 2,
+   "page": 868,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/868.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00868.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00868.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 144768,
+   "downloaded_at": "2026-10-29 18:43:45"
+  },
+  {
+   "part": 2,
+   "page": 869,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/869.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00869.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00869.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 146700,
+   "downloaded_at": "2026-10-29 18:44:00"
+  },
+  {
+   "part": 2,
+   "page": 870,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/870.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00870.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00870.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 130041,
+   "downloaded_at": "2026-10-29 18:44:15"
+  },
+  {
+   "part": 2,
+   "page": 871,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/871.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00871.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00871.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 145068,
+   "downloaded_at": "2026-10-29 18:44:30"
+  },
+  {
+   "part": 2,
+   "page": 872,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/872.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00872.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00872.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 134869,
+   "downloaded_at": "2026-10-29 18:44:45"
+  },
+  {
+   "part": 2,
+   "page": 873,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/873.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00873.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00873.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 112195,
+   "downloaded_at": "2026-10-29 18:45:00"
+  },
+  {
+   "part": 2,
+   "page": 874,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/874.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00874.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00874.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 139177,
+   "downloaded_at": "2026-10-29 18:45:15"
+  },
+  {
+   "part": 2,
+   "page": 875,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/875.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00875.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00875.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 146435,
+   "downloaded_at": "2026-10-29 18:45:30"
+  },
+  {
+   "part": 2,
+   "page": 876,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/876.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00876.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00876.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 43619,
+   "downloaded_at": "2026-10-29 18:45:45"
+  },
+  {
+   "part": 2,
+   "page": 877,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/877.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00877.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00877.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 142737,
+   "downloaded_at": "2026-10-29 18:46:00"
+  },
+  {
+   "part": 2,
+   "page": 878,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/878.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00878.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00878.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 46680,
+   "downloaded_at": "2026-10-29 18:46:15"
+  },
+  {
+   "part": 2,
+   "page": 879,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/879.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00879.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00879.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 131925,
+   "downloaded_at": "2026-10-29 18:46:30"
+  },
+  {
+   "part": 2,
+   "page": 880,
+   "url": "http://www.pcm.gov.lb/archive/j2024/j16/doc46/880.gif",
+   "image": "2024/images/issue016/2024_issue016_part2_page00880.gif",
+   "text": "2024/ocr_text/issue016/2024_issue016_part2_page00880.txt",
+   "status": "downloaded",
+   "attempts": 1,
+   "error": null,
+   "bytes": 127501,
+   "downloaded_at": "2026-10-29 18:46:45"
+  }
+ ],
+ "errors": [],
+ "archive_folder": "j16"
+}

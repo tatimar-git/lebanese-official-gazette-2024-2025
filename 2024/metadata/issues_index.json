@@ -1,0 +1,456 @@
+{
+ "year": 2024,
+ "listing_url": "http://www.pcm.gov.lb/arabic/listingbydate.aspx?pageid=23685",
+ "read_at": "2026-10-28 17:24:58",
+ "complete": true,
+ "issues": {
+  "issue001": {
+   "issue_id": "issue001",
+   "label": "عدد 1 تاريخ 4-1-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23690",
+   "number": 1,
+   "suffix": "",
+   "date": "2024-01-04"
+  },
+  "issue002": {
+   "issue_id": "issue002",
+   "label": "عدد 2 تاريخ 11-1-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23703",
+   "number": 2,
+   "suffix": "",
+   "date": "2024-01-11"
+  },
+  "issue003": {
+   "issue_id": "issue003",
+   "label": "عدد 3 تاريخ 18-1-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23731",
+   "number": 3,
+   "suffix": "",
+   "date": "2024-01-18"
+  },
+  "issue004": {
+   "issue_id": "issue004",
+   "label": "عدد 4 تاريخ 25-1-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23747",
+   "number": 4,
+   "suffix": "",
+   "date": "2024-01-25"
+  },
+  "issue005": {
+   "issue_id": "issue005",
+   "label": "عدد 5 تاريخ 1-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23769",
+   "number": 5,
+   "suffix": "",
+   "date": "2024-02-01"
+  },
+  "issue006": {
+   "issue_id": "issue006",
+   "label": "عدد 6 تاريخ 8-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23797",
+   "number": 6,
+   "suffix": "",
+   "date": "2024-02-08"
+  },
+  "issue007": {
+   "issue_id": "issue007",
+   "label": "عدد 7 تاريخ 15-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23813",
+   "number": 7,
+   "suffix": "",
+   "date": "2024-02-15"
+  },
+  "issue007m": {
+   "issue_id": "issue007m",
+   "label": "م عدد 7 تاريخ 15-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23814",
+   "number": 7,
+   "suffix": "م",
+   "date": "2024-02-15"
+  },
+  "issue008": {
+   "issue_id": "issue008",
+   "label": "عدد 8 تاريخ 22-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23837",
+   "number": 8,
+   "suffix": "",
+   "date": "2024-02-22"
+  },
+  "issue009": {
+   "issue_id": "issue009",
+   "label": "عدد 9 تاريخ 29-2-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23857",
+   "number": 9,
+   "suffix": "",
+   "date": "2024-02-29"
+  },
+  "issue010": {
+   "issue_id": "issue010",
+   "label": "عدد 10 تاريخ 7-3-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23938",
+   "number": 10,
+   "suffix": "",
+   "date": "2024-03-07"
+  },
+  "issue011": {
+   "issue_id": "issue011",
+   "label": "عدد 11 تاريخ 14-3-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23939",
+   "number": 11,
+   "suffix": "",
+   "date": "2024-03-14"
+  },
+  "issue012": {
+   "issue_id": "issue012",
+   "label": "عدد 12 تاريخ 21-3-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23940",
+   "number": 12,
+   "suffix": "",
+   "date": "2024-03-21"
+  },
+  "issue013": {
+   "issue_id": "issue013",
+   "label": "عدد 13 تاريخ 28-3-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=23978",
+   "number": 13,
+   "suffix": "",
+   "date": "2024-03-28"
+  },
+  "issue014": {
+   "issue_id": "issue014",
+   "label": "عدد 14 تاريخ 4-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24011",
+   "number": 14,
+   "suffix": "",
+   "date": "2024-04-04"
+  },
+  "issue014m": {
+   "issue_id": "issue014m",
+   "label": "م عدد 14 تاريخ 8-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24040",
+   "number": 14,
+   "suffix": "م",
+   "date": "2024-04-08"
+  },
+  "issue015": {
+   "issue_id": "issue015",
+   "label": "عدد 15 تاريخ 11-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24041",
+   "number": 15,
+   "suffix": "",
+   "date": "2024-04-11"
+  },
+  "issue016": {
+   "issue_id": "issue016",
+   "label": "عدد 16 تاريخ 18-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24042",
+   "number": 16,
+   "suffix": "",
+   "date": "2024-04-18"
+  },
+  "issue016m": {
+   "issue_id": "issue016m",
+   "label": "م عدد 16 تاريخ 18-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24043",
+   "number": 16,
+   "suffix": "م",
+   "date": "2024-04-18"
+  },
+  "issue017": {
+   "issue_id": "issue017",
+   "label": "عدد 17 تاريخ 25-4-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24054",
+   "number": 17,
+   "suffix": "",
+   "date": "2024-04-25"
+  },
+  "issue018": {
+   "issue_id": "issue018",
+   "label": "عدد 18 تاريخ 2-5-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24071",
+   "number": 18,
+   "suffix": "",
+   "date": "2024-05-02"
+  },
+  "issue019": {
+   "issue_id": "issue019",
+   "label": "عدد 19 تاريخ 9-5-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24086",
+   "number": 19,
+   "suffix": "",
+   "date": "2024-05-09"
+  },
+  "issue020": {
+   "issue_id": "issue020",
+   "label": "عدد 20 تاريخ 16-5-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24113",
+   "number": 20,
+   "suffix": "",
+   "date": "2024-05-16"
+  },
+  "issue021": {
+   "issue_id": "issue021",
+   "label": "عدد 21 تاريخ 23-5-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24145",
+   "number": 21,
+   "suffix": "",
+   "date": "2024-05-23"
+  },
+  "issue022": {
+   "issue_id": "issue022",
+   "label": "عدد 22 تاريخ 30-5-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24163",
+   "number": 22,
+   "suffix": "",
+   "date": "2024-05-30"
+  },
+  "issue023": {
+   "issue_id": "issue023",
+   "label": "عدد 23 تاريخ 6-6-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24204",
+   "number": 23,
+   "suffix": "",
+   "date": "2024-06-06"
+  },
+  "issue024": {
+   "issue_id": "issue024",
+   "label": "عدد 24 تاريخ 13-6-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24231",
+   "number": 24,
+   "suffix": "",
+   "date": "2024-06-13"
+  },
+  "issue025": {
+   "issue_id": "issue025",
+   "label": "عدد 25 تاريخ 20-6-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24246",
+   "number": 25,
+   "suffix": "",
+   "date": "2024-06-20"
+  },
+  "issue026": {
+   "issue_id": "issue026",
+   "label": "عدد 26 تاريخ 27-6-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24267",
+   "number": 26,
+   "suffix": "",
+   "date": "2024-06-27"
+  },
+  "issue027": {
+   "issue_id": "issue027",
+   "label": "عدد 27 تاريخ 4-7-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24308",
+   "number": 27,
+   "suffix": "",
+   "date": "2024-07-04"
+  },
+  "issue028": {
+   "issue_id": "issue028",
+   "label": "عدد 28 تاريخ 11-7-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24324",
+   "number": 28,
+   "suffix": "",
+   "date": "2024-07-11"
+  },
+  "issue029": {
+   "issue_id": "issue029",
+   "label": "عدد 29 تاريخ 18-7-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24347",
+   "number": 29,
+   "suffix": "",
+   "date": "2024-07-18"
+  },
+  "issue030": {
+   "issue_id": "issue030",
+   "label": "عدد 30 تاريخ 25-7-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24362",
+   "number": 30,
+   "suffix": "",
+   "date": "2024-07-25"
+  },
+  "issue031": {
+   "issue_id": "issue031",
+   "label": "عدد 31 تاريخ 1-8-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24396",
+   "number": 31,
+   "suffix": "",
+   "date": "2024-08-01"
+  },
+  "issue032": {
+   "issue_id": "issue032",
+   "label": "عدد 32 تاريخ 8-8-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24460",
+   "number": 32,
+   "suffix": "",
+   "date": "2024-08-08"
+  },
+  "issue033": {
+   "issue_id": "issue033",
+   "label": "عدد 33 تاريخ 15-8-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24475",
+   "number": 33,
+   "suffix": "",
+   "date": "2024-08-15"
+  },
+  "issue034": {
+   "issue_id": "issue034",
+   "label": "عدد 34 تاريخ 22-8-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24507",
+   "number": 34,
+   "suffix": "",
+   "date": "2024-08-22"
+  },
+  "issue035": {
+   "issue_id": "issue035",
+   "label": "عدد 35 تاريخ 29-8-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24537",
+   "number": 35,
+   "suffix": "",
+   "date": "2024-08-29"
+  },
+  "issue036": {
+   "issue_id": "issue036",
+   "label": "عدد 36 تاريخ 5-9-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24646",
+   "number": 36,
+   "suffix": "",
+   "date": "2024-09-05"
+  },
+  "issue037": {
+   "issue_id": "issue037",
+   "label": "عدد 37 تاريخ 12-9-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24647",
+   "number": 37,
+   "suffix": "",
+   "date": "2024-09-12"
+  },
+  "issue038": {
+   "issue_id": "issue038",
+   "label": "عدد 38 تاريخ 19-9-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24701",
+   "number": 38,
+   "suffix": "",
+   "date": "2024-09-19"
+  },
+  "issue039": {
+   "issue_id": "issue039",
+   "label": "عدد 39 تاريخ 26-9-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24759",
+   "number": 39,
+   "suffix": "",
+   "date": "2024-09-26"
+  },
+  "issue040": {
+   "issue_id": "issue040",
+   "label": "عدد 40 تاريخ 3-10-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24783",
+   "number": 40,
+   "suffix": "",
+   "date": "2024-10-03"
+  },
+  "issue041": {
+   "issue_id": "issue041",
+   "label": "عدد 41 تاريخ 10-10-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24827",
+   "number": 41,
+   "suffix": "",
+   "date": "2024-10-10"
+  },
+  "issue042": {
+   "issue_id": "issue042",
+   "label": "عدد 42 تاريخ 17-10-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24838",
+   "number": 42,
+   "suffix": "",
+   "date": "2024-10-17"
+  },
+  "issue043": {
+   "issue_id": "issue043",
+   "label": "عدد 43 تاريخ 24-10-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24853",
+   "number": 43,
+   "suffix": "",
+   "date": "2024-10-24"
+  },
+  "issue044": {
+   "issue_id": "issue044",
+   "label": "عدد 44 تاريخ 31-10-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24872",
+   "number": 44,
+   "suffix": "",
+   "date": "2024-10-31"
+  },
+  "issue045": {
+   "issue_id": "issue045",
+   "label": "عدد 45 تاريخ 7-11-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24917",
+   "number": 45,
+   "suffix": "",
+   "date": "2024-11-07"
+  },
+  "issue046": {
+   "issue_id": "issue046",
+   "label": "عدد 46 تاريخ 14-11-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=24969",
+   "number": 46,
+   "suffix": "",
+   "date": "2024-11-14"
+  },
+  "issue047": {
+   "issue_id": "issue047",
+   "label": "عدد 47 تاريخ 21-11-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25006",
+   "number": 47,
+   "suffix": "",
+   "date": "2024-11-21"
+  },
+  "issue048": {
+   "issue_id": "issue048",
+   "label": "عدد 48 تاريخ 28-11-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25046",
+   "number": 48,
+   "suffix": "",
+   "date": "2024-11-28"
+  },
+  "issue049": {
+   "issue_id": "issue049",
+   "label": "عدد 49 تاريخ 5-12-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25072",
+   "number": 49,
+   "suffix": "",
+   "date": "2024-12-05"
+  },
+  "issue049m": {
+   "issue_id": "issue049m",
+   "label": "عدد م49 تاريخ 5-12-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25099",
+   "number": 49,
+   "suffix": "م",
+   "date": "2024-12-05"
+  },
+  "issue050": {
+   "issue_id": "issue050",
+   "label": "عدد 50 تاريخ 12-12-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25116",
+   "number": 50,
+   "suffix": "",
+   "date": "2024-12-12"
+  },
+  "issue051": {
+   "issue_id": "issue051",
+   "label": "عدد 51 تاريخ 19-12-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25148",
+   "number": 51,
+   "suffix": "",
+   "date": "2024-12-19"
+  },
+  "issue052": {
+   "issue_id": "issue052",
+   "label": "عدد 52 تاريخ 26-12-2024",
+   "url": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=25168",
+   "number": 52,
+   "suffix": "",
+   "date": "2024-12-26"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+الجريدة الرسمية العدد ١،٣٠ ٢٠٢٥ ٤٦٣
+INTRODUCTION
+This document represents a template tc be used by the relevant Right Hoker Oper3tor
+for reporting on the results from exploratory drilling as apcroved by an Environmental
+Impact  Assessment (EIA) approval ١٨ accordancc with the ٤١٨ Decree   (Decree
+8633/2012) once explcratory drilling is finalized (end of activity reportingi  This template
+complements the EIA Guidelines by delailing the information required in Chapter 4.27.6
+of the CIA Guidelines.
+Submissions of the End ot Act vity Report should be in electronic format (Word and puf
+file) as well as tuwo hard copies both the Ministry cf Environment MCE) and L ebanese
+Petroleum Administrat on (LPA) Submission should be made by the Right Holder
+Operator  who has ultimate respons bility for the undertaking
+Submission should taxe placa no latar than 3 months after completion of the activity
+approved by  Ihe ٤١A process, in   this c3$4 the   finalisation of exploration   drilling
+Finalisation of exploralion drilling is defined as the date wnen the weil is pluggeu and
+abanuoned   The below reporting stucture shuuld be maintained for end of activity
+reporting.
+Spatial data shculd ue reported in reierence to the geodetic datum as agreed with LPA
+I each individual case Melauala shall incluue the EPSG code and the parameters for
+Ine   geodetic and prcjected Coordinate Reference   System and the   transformat on
+Transformations shou d {0||0!٧ the   respective   guidelines f٢om |0GP. UTM zone
+infomation must be included when relevant
+Objective and Scope
+This lerplate has beer develupel to ensure a stanuarcized end of activity repcrting by
+the various project Right Holders Cperators over time Using a standardized approach
+will suppor tre effors of IOE and LPA in harmonizec data ccllection to esiablish an
+environmental database  build knowedge on the environrental conditions of Lebanase
+waters In the longer term and allov comparison of the peromance of the Righa Holders
+Operators
+Reporting in line with tne relevant part of this terplate is mandatory to achieve the above
+gcals. For consistency and comparison purposes it is important not to change Ine
+numbering of chapters nor the numbering or format Af the Tables Should a narticular
+chapter not be relevant to :he reporting it should nevertheless be kept to EnSure
+consistent numbering  Slale `not applicable " after thg header in this case
