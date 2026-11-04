@@ -1,48 +1,19 @@
-# Lebanese Official Gazette (الجريدة الرسمية): OCR dataset, 2024 and 2025
+# Lebanese Official Gazette (الجريدة الرسمية): page images, January to September 2025
 
-This repository holds Arabic OCR text and metadata for the Lebanese Official Gazette. The source is the
-scanned page images published on [pcm.gov.lb](http://www.pcm.gov.lb). It was collected for a
-Deep Learning course project, a RAG chatbot over Lebanese legislation.
-
-## Contents
-
-| Year | Issues with OCR | OCR pages | Issues in metadata |
-|---|---|---|---|
-| 2024 | 14 | 1,686 | 56 |
-| 2025 | 53 | 6,101 | 72 |
-
-The 2024 OCR is still in progress: January to March 2024 is complete (both parts), so not every
-issue in the metadata has OCR text yet.
-`progress.json` in each year folder shows the current state.
+This repository holds the scanned page images of the Lebanese Official Gazette for January to September 2025
+(issues 1 to 40, including the supplements marked `m`). The images come from
+[pcm.gov.lb](http://www.pcm.gov.lb). They were collected for a Deep Learning course project.
 
 ```
-2024/ and 2025/
-  ocr_text/issueNNN/<year>_issueNNN_partP_pageNNNNN.txt   UTF-8 Arabic text, one file per scanned page
-  metadata/issues/issueNNN.json                           issue number, date, source URLs, table of contents
-  metadata/issues_index.json                              list of all issues for the year
-  metadata/ocr_status.json                                OCR status per issue
-  progress.json                                           download and OCR progress summary
-scripts/                                                  scraper and OCR scripts that produced the data
+2025/images/issueNNN/2025_issueNNN_partP_pageNNNNN.gif   one GIF per scanned page
 ```
 
-The page images (about 560 MB) are not included. Each issue's metadata JSON has the original
-`image_dir` URL for every part, so the images can be downloaded again with `scripts/scraper.py`.
+- `NNN` is the issue number. A suffix `m`, `m1` or `m2` marks a supplement (ملحق).
+- `partP` is the part of the issue (1 or 2). `pageNNNNN` is the page number used by the source site.
+- There are 6,102 images (about 560 MB).
 
-## Quick start (Python)
+Some issues are not complete. For many of them only Part 1, or part of Part 2, is included, because the
+source site blocked automated downloads before every page could be fetched. Issue 41 (25 September 2025)
+is not included.
 
-```python
-import json, pathlib
-
-root = pathlib.Path("2025")
-meta = json.loads((root / "metadata/issues/issue001.json").read_text(encoding="utf-8"))
-print(meta["label"], meta["date"])
-
-pages = sorted((root / "ocr_text/issue001").glob("*.txt"))
-text = "\n".join(p.read_text(encoding="utf-8") for p in pages)
-```
-
-## Notes
-
-- The text comes from automatic OCR, so expect recognition errors, especially in tables and
-  low-quality scans.
-- The Official Gazette is a public government publication. This repository is for educational use.
+The Official Gazette is a public government publication. This repository is for educational use.
